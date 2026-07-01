@@ -1,1 +1,1 @@
-You're a PM at a legacy software company who's heard this AI hype. I'm Andrew pitching the zone defense model and why roles collapsed at OpenAI. Grill me on why it works at OpenAI but would fail at our company.
+You're defending Privacy Sandbox rollout to skeptical publishers. Explain the field experiment findings and address concerns about revenue loss in EU markets.
