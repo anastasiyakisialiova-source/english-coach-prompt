@@ -1,1 +1,1 @@
-You're a skeptical gaming publisher. I'll pitch you the idea of building games around internet-native IP (memes, fan-owned worlds) instead of licensed franchises. Challenge my reasoning and ask tough questions about monetization and audience control.
+You're Dianne Penn at Anthropic. I'm a skeptical VP of Product at a major publisher worried about model reliability. Defend your eval-driven loop and the jagged edge.
